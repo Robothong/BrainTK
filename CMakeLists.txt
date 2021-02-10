@@ -11,7 +11,6 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-<<<<<<< HEAD
 INCLUDE_DIRECTORIES(/usr/local/include/vtk-9.0)
 INCLUDE_DIRECTORIES(/usr/local/include/ITK-5.1)
 INCLUDE_DIRECTORIES(/usr/local/include/opencv4)
@@ -22,8 +21,6 @@ INCLUDE_DIRECTORIES(/usr/local/include/ctk-0.1)
 
 link_directories("/usr/lib" "/usr/lib/x86_64-linux-gnu" "/usr/local/lib")
 
-=======
->>>>>>> a70a6c00387d8337b4038372312d3f74ff6b549c
 # QtCreator supports the following variables for Android, which are identical to qmake Android variables.
 # Check http://doc.qt.io/qt-5/deployment-android.html for more information.
 # They need to be set before the find_package(Qt5 ...) call.
